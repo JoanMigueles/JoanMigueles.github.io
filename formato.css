@@ -3,11 +3,11 @@ p {background-color: #d8eddd;
   
 h1 {color: red;}
 
-#formato_especial {color: green;}
+#formato_especial {color: blue;}
 
 h1.clase1 em {
 color: black; 
-font-family: 'Times New Roman', Times, serif; 
+font-family: monospace; 
 font-size: 40;}
 
 h1.clase2 em {
