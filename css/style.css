@@ -5,12 +5,13 @@
  * URL: https://freehtml5.co
  */
 /* Fonts */
+body {background-color: rgb(179, 163, 139);}
 @font-face {
-  font-family: 'Calisto-MT';
+  font-family: 'monospace';
   src: url(../fonts/Calisto-MT.ttf); }
 
 @font-face {
-  font-family: 'Calisto-MT-Italic';
+  font-family: 'arial';
   src: url(../fonts/Calisto-MT-Italic.ttf); }
 
 @font-face {
@@ -34,7 +35,7 @@
 .universal-h2 {
   font-size: 48px;
   text-align: center;
-  color: #222; }
+  color: rgb(126, 105, 105); }
   @media (max-width: 1250px) {
     .universal-h2 {
       font-size: 38px; } }
@@ -61,14 +62,14 @@
   justify-content: space-between; }
 
 .main-navigation {
-  color: #fff;
+  color: rgb(214, 197, 197);
   display: none;
   position: fixed;
   height: 100%;
   width: 100%;
   top: 0px;
   left: 0px;
-  background: #000;
+  background: rgb(85, 78, 78);
   opacity: 0.9; }
   .main-navigation .main-navigation__ul {
     position: absolute;
