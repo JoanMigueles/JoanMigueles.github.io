@@ -1,5 +1,5 @@
-p {font-family: monospace; color: white;}
+body {font-family: monospace; color: rgb(255, 233, 233); background-color:#523b3b ;}
 
-#título_principal {border-style: dotted; border-color: white; border-width: 5px;}
+#título_principal {border-style: dotted; border-color: rgb(211, 163, 163); border-width: 5px;}
 
-#claro {background-color: #333136; align-content:"center";}
+#claro {background-color: #755454;}
