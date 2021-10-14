@@ -1,2 +1,17 @@
-p {background-color: #d8eddd; font-family: courier;}
-h1 {color: blue;}
+p {background-color: #d8eddd; 
+  font-family: courier;}
+  
+h1 {color: red;}
+
+#formato_especial {color: blue;}
+
+h1.clase1 em {
+color: black; 
+font-family: consolas; 
+font-size: 40;}
+
+h1.clase2 em {
+color: white; 
+background-color: black;
+font-family: arial; 
+font-size: 40;}
